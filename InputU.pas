@@ -18,6 +18,17 @@
 {						                              2020年4月13日                   }
 {	 修复了在输入法运行期间Page up pagedown 等安键失灵的问题 2022年10月19日 }
 {*************************************************************************}
+
+(*
+ *  CHANGES:
+ *  v0.2
+ *   + port to Delphi 12
+ *   + exit menu item added
+ *
+ *  v0.1
+ *   + create project on GITHUB by Xiaoyi Zhang
+ *)
+
 unit inputU;
 
 interface
